@@ -1,8 +1,8 @@
 {
   "greeting": "Hello",
   "name": "于总",
-  "greetingText": "顺便提一下，现在的颜色是以金黄色为主色调，绿色为副色的复杂颜色了。",
-  "wishText": "愿幸福永远常伴在你身旁。",
+  "greetingText": "顺便提一下，现在的颜色是以金黄色为主色调，绿色为副色的复杂颜色了",
+  "wishText": "愿幸福永远常伴在你身旁",
   "imagePath": "img/birthdayDemo.jpg",
   "text1": "今天是你的生日!!!",
   "textInChatBox": "于文钰小姐的21岁生日",
@@ -11,13 +11,13 @@
   "text3": "可惜得知时间太晚",
   "text4": "因此，我尝试决定做一些之前从未做过的",
   "text4Adjective": "特别的东西",
-  "text5Entry": "Because，",
+  "text5Entry": "Because",
   "text5Content": "You are special！！！",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, 记得给我反馈一下感受哦。",
+  "outroText": "Okay, 记得给我反馈一下感受哦",
   "replayText": "或者点击一下这里，如果你想再看一遍的话.",
   "outroSmiley": ":)"
 }
